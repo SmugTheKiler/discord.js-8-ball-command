@@ -15,3 +15,5 @@ We got
 - And more!
 
 Can wait to see you [here](https://discord.gg/UTy6nPpjPt)!
+
+Wanna support me? Star this github respretory and if your really awesome, [Donate Here](https://paypal.me/SmugTheKiler)!
